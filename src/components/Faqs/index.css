@@ -1,0 +1,31 @@
+/* Write your code here. */
+* {
+  font-family: 'Roboto';
+}
+
+.app-bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+.app-container {
+  background-color: #ffffff;
+  min-height: 40vh;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.heading {
+  text-align: center;
+  color: #cb8805;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}

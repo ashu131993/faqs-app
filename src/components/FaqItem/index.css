@@ -1,0 +1,35 @@
+/* Write your code here. */
+.qa-container {
+  list-style-type: none;
+  border: 2px solid #e4e7eb;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.ques-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ques {
+  color: #52606d;
+}
+
+.btn-plus-minus {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+hr {
+  border: 2px solid #d7dae6;
+}
+
+.ans {
+  color: #9aa5b1;
+}
